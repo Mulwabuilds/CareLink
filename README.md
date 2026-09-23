@@ -69,8 +69,7 @@ CareLink seeks to address these challenges through a centralized platform that s
 
 ## 🎯 Project Goal
 
-To develop a secure, scalable, and user-friendly web-based healthcare platform that enables healthcare providers to manage patients and monitor their progress remotely while allowing patients to access permitted medical information and submit health updates.
-
+To develop a secure, scalable, and user-friendly web-based healthcare platform that enables healthcare providers to manage patients and monitor their progress remotely while allowing patients to access permitted medical information and submit health updates minimising unnnecesary medical costs.
 ---
 
 ## 🎯 Objectives
